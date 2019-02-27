@@ -1,8 +1,13 @@
+# Monique Namsinh
+# 02/27/2019
+# CPSC408 Database Mgmt
+# 1856274
+
 import sqlite3
 import sys
 
 
-class Student(object):
+class Student:
     def __init__(self, dbpath):
         self.dbpath = 'foobar.db'
 
