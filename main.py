@@ -1,3 +1,8 @@
+# Monique Namsinh
+# 02/27/2019
+# CPSC408 Database Mgmt
+# 1856274
+
 import sqlite3
 from Student import Student
 
